@@ -1,0 +1,43 @@
+﻿Build started 1/15/2016 2:11:55 AM.
+Project "E:\Downloads\Equilibrium\Equilibrium\Equilibrium\Equilibrium\Equilibrium.vcxproj" on node 2 (build target(s)).
+InitializeBuildStatus:
+  Touching "Debug\Equilibrium.unsuccessfulbuild".
+ClCompile:
+  All outputs are up-to-date.
+  c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I"C:\SFML-2.3.2\include" /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt source.cpp
+  source.cpp
+e:\downloads\equilibrium\equilibrium\equilibrium\equilibrium\source.cpp(263): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(371) : see declaration of 'sprintf'
+e:\downloads\equilibrium\equilibrium\equilibrium\equilibrium\source.cpp(269): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(371) : see declaration of 'sprintf'
+e:\downloads\equilibrium\equilibrium\equilibrium\equilibrium\source.cpp(385): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(371) : see declaration of 'sprintf'
+e:\downloads\equilibrium\equilibrium\equilibrium\equilibrium\source.cpp(392): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(371) : see declaration of 'sprintf'
+e:\downloads\equilibrium\equilibrium\equilibrium\equilibrium\source.cpp(399): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(371) : see declaration of 'sprintf'
+e:\downloads\equilibrium\equilibrium\equilibrium\equilibrium\source.cpp(420): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(371) : see declaration of 'sprintf'
+e:\downloads\equilibrium\equilibrium\equilibrium\equilibrium\source.cpp(426): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(371) : see declaration of 'sprintf'
+e:\downloads\equilibrium\equilibrium\equilibrium\equilibrium\source.cpp(431): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(371) : see declaration of 'sprintf'
+ManifestResourceCompile:
+  c:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\Equilibrium.exe.embed.manifest.res" Debug\Equilibrium_manifest.rc 
+Link:
+  c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\Downloads\Equilibrium\Equilibrium\Equilibrium\Debug\Equilibrium.exe" /INCREMENTAL /NOLOGO /LIBPATH:"C:\SFML-2.3.2\lib" "sfml-audio-d.lib" kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\Equilibrium.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"E:\Downloads\Equilibrium\Equilibrium\Equilibrium\Debug\Equilibrium.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\Downloads\Equilibrium\Equilibrium\Equilibrium\Debug\Equilibrium.lib" /MACHINE:X86 Debug\Equilibrium.exe.embed.manifest.res
+  Debug\source.obj
+Manifest:
+  c:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\Equilibrium.exe.embed.manifest" /manifest Debug\Equilibrium.exe.intermediate.manifest
+  c:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\Equilibrium.exe.embed.manifest.res" Debug\Equilibrium_manifest.rc 
+LinkEmbedManifest:
+  All outputs are up-to-date.
+  Equilibrium.vcxproj -> E:\Downloads\Equilibrium\Equilibrium\Equilibrium\Debug\Equilibrium.exe
+FinalizeBuildStatus:
+  Deleting file "Debug\Equilibrium.unsuccessfulbuild".
+  Touching "Debug\Equilibrium.lastbuildstate".
+Done Building Project "E:\Downloads\Equilibrium\Equilibrium\Equilibrium\Equilibrium\Equilibrium.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:04.82
